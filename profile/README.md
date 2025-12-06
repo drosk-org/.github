@@ -4,7 +4,7 @@
   Drosk
 </h1>
 <p align="center">
-  Drosk is a closed reveal. We're preparing something special — stay tuned.
+  Drosk is currently in closed-beta testing. Stay tuned.
   <br/>
   <br/>
   <em>Want to join? For more information, visit: https://drosk.net</em>
