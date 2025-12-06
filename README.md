@@ -1,1 +1,12 @@
-# .github
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/drosknet/branding/refs/heads/main/Drosk-RenderedLogo-Small.png" width="96">
+  <br/>
+  Drosk
+</h1>
+<p align="center">
+  Drosk is a closed reveal. We're preparing something special — stay tuned.
+  <br/>
+  <br/>
+  <em>Want to join? For more information, visit: https://drosk.net</em>
+</p>
+
