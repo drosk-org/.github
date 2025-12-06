@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/drosknet/branding/refs/heads/main/Drosk-RenderedLogo-Small.png" width="96">
+  <img src="https://raw.githubusercontent.com/drosknet/branding/refs/heads/main/Drosk-RenderedLogo-Small.png" width="36">
   <br/>
   Drosk
 </h1>
