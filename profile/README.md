@@ -4,7 +4,7 @@
   <strong>Drosk</strong>
 </h1>
 
-<h3 align="center">Reimagine your file organization.</h3>
+<h3 align="center"><em>Reimagine your file organization.</em></h3>
 
 <h6 align="center">
   Have a bug to report or a feature to suggest?  
@@ -17,3 +17,9 @@
   <br/>
   Learn more at <kbd><a href="https://drosk.net">drosk.net</a></kbd>.
 </h6>
+
+
+<div align="center">
+  <h4>Support the Project</h4>
+  <a href="https://discord.com/invite/zpTYDPTn2c">Join our Discord</a> <strong>|</strong> <a href="https://buymeacoffee.com/YOUR_USERNAME">Buy us a coffee</a>
+</div>
