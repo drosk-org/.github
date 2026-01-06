@@ -22,4 +22,9 @@
 <div align="center">
   <h4>Support the Project</h4>
   <a href="https://discord.com/invite/zpTYDPTn2c">Join our Discord</a> <strong>|</strong> <a href="https://buymeacoffee.com/YOUR_USERNAME">Buy us a coffee</a>
+  <br/>
+  <br/>
+  <a href="https://www.producthunt.com/products/drosk?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-drosk" target="_blank" rel="noopener noreferrer"><img alt="Drosk - Your smart desktop file organizer | Product Hunt" width="200" height="43" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1059283&amp;theme=dark&amp;t=1767720384390"></a> <a href="https://www.techtrendin.com/products/drosk" target="_blank"><img src="https://www.techtrendin.com/badges/featured-dark.png" alt="Featured on TechTrendin'" style="width: auto; height: 42px;"></a>
 </div>
+
+
