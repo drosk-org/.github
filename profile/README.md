@@ -21,7 +21,7 @@
 
 <div align="center">
   <h4>Support the Project</h4>
-  <a href="https://discord.com/invite/zpTYDPTn2c">Join our Discord</a> <strong>|</strong> <a href="https://buymeacoffee.com/YOUR_USERNAME">Buy us a coffee</a>
+  <a href="https://discord.com/invite/zpTYDPTn2c">Join our Discord</a> <strong>|</strong> <a href="https://buymeacoffee.com/exoad">Buy us a coffee</a>
 </div>
 
 
