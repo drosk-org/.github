@@ -4,7 +4,7 @@
   <strong>Drosk</strong>
 </h1>
 
-<h3 align="center"><em>Reimagine your file organization.</em></h3>
+<h3 align="center"><em>Deterministic File Governance.</em></h3>
 
 <h6 align="center">
   Have a bug to report or a feature to suggest?  
